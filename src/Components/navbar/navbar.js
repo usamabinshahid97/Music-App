@@ -1,10 +1,10 @@
 import React from 'react'
+import './navbar.scss'
 
 const Navbar = () => {
     return (
         <div className="topnav">
             <span className="logo-text">Music.</span>
-            {/* <a href="#logo" className="logo-text">Music.</a> */}
             <div className="nav-links">
                 <input type="text" placeholder="Search.." name="search" />
                 <div className="links">

@@ -1,0 +1,40 @@
+.recommended-component {
+    // width: 65%;
+    // height: 300px;
+    height: 250px;
+    margin-left: 6rem;
+    margin-top: 40px;
+  
+    .recommended-container {
+      box-sizing: border-box;
+      width: 100%;
+      // width: 65%;
+      // height: 300px;
+      // margin-left: 6rem;
+      // margin-top: 40px;
+  
+      .recommended-top-bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+  
+        .heading {
+          display: flex;
+          font-size: 22px;
+          font-weight: bold;
+          color: black;
+        }
+  
+        .icons {
+          cursor: pointer;
+        }
+      }
+  
+      .recommended-playlist {
+        margin-top: 15px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  }
