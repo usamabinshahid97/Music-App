@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/node": "^12.12.9",
     "Buffer": "0.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "materialize-css": "^1.0.0-rc.2",
     "qs": "^6.9.1",
